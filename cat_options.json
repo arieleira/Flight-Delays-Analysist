@@ -1,0 +1,5 @@
+{
+  "AIRLINE": ["WN","DL","AA","OO","EV","UA","MQ","B6","US","AS"],
+  "ORIGIN_AIRPORT": ["ATL","ORD","DFW","LAX","SFO","IAH","PHX","LAS","SEA","DEN"],
+  "DESTINATION_AIRPORT": ["LAX","SFO","ATL","DFW","ORD","LAS","MSP","DEN","IAH","PHX"]
+}

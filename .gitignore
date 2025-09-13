@@ -1,0 +1,24 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Build / dist
+dist/
+build/
+*.egg-info/
+
+# Environment & config
+.env
+.vscode/
+*.log
+.DS_Store
